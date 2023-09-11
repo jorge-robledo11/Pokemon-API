@@ -1,0 +1,3 @@
+# Ignorar los archivos en este formato
+*.vscode
+*.txt
